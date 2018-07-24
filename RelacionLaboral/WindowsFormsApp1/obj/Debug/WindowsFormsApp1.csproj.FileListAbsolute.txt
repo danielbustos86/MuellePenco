@@ -1,0 +1,16 @@
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\BOL.dll
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\BOL.pdb
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Portege\source\repos\RelacionLaboral\WindowsFormsApp1\bin\Debug\Parameter.config

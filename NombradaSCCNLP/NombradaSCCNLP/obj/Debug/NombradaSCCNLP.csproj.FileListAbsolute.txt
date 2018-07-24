@@ -1,0 +1,16 @@
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\NombradaSCCNLP.exe.config
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\NombradaSCCNLP.exe
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\NombradaSCCNLP.pdb
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.csprojResolveAssemblyReference.cache
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.Form1.resources
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.Properties.Resources.resources
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.csproj.GenerateResource.cache
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.csproj.CoreCompileInputs.cache
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.exe
+c:\users\portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.pdb
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\Parameter.config
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\BOL.dll
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\DAL.dll
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\BOL.pdb
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\bin\Debug\DAL.pdb
+C:\Users\Portege\source\repos\NombradaSCCNLP\NombradaSCCNLP\obj\Debug\NombradaSCCNLP.csproj.CopyComplete

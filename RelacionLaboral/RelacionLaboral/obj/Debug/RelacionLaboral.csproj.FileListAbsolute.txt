@@ -1,0 +1,14 @@
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\RelacionLaboral.exe.config
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\RelacionLaboral.exe
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\RelacionLaboral.pdb
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.csprojResolveAssemblyReference.cache
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.ProjectInstaller.resources
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.csproj.GenerateResource.cache
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.csproj.CoreCompileInputs.cache
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.exe
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.pdb
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\BOL.dll
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\DAL.dll
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\BOL.pdb
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\bin\Debug\DAL.pdb
+c:\users\portege\source\repos\RelacionLaboral\RelacionLaboral\obj\Debug\RelacionLaboral.csproj.CopyComplete

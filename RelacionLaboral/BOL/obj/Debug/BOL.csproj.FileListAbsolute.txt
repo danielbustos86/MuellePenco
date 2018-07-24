@@ -1,0 +1,6 @@
+c:\users\portege\source\repos\RelacionLaboral\BOL\bin\Debug\BOL.dll
+c:\users\portege\source\repos\RelacionLaboral\BOL\bin\Debug\BOL.pdb
+c:\users\portege\source\repos\RelacionLaboral\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+c:\users\portege\source\repos\RelacionLaboral\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+c:\users\portege\source\repos\RelacionLaboral\BOL\obj\Debug\BOL.dll
+c:\users\portege\source\repos\RelacionLaboral\BOL\obj\Debug\BOL.pdb
